@@ -40,5 +40,3 @@ If the input is valid, the program will **book the tickets**, display the update
 - This is a simulation, and **no actual email is sent**.
 - The program uses a simulated total of 50 tickets for the conference.
 
-## License
-This project is open source and available under the [MIT License](LICENSE).
